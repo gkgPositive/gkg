@@ -79,8 +79,11 @@ float: none;
 width: 100%;
 }
 }
-img {
-    img {
-        width: 100%;
-        height: auto;
+.header {
+    background-color: #666;
+    width: 100%;
+    background-image: url(mmad.jpg);
+    background-size: cover;
+    background-position: 0 40%;
+    height: 400px;
 }
