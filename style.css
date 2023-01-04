@@ -4,3 +4,6 @@ header {
     background-position: 80%;
     height: 600px;
 }
+body {
+  background-color: black;
+}
